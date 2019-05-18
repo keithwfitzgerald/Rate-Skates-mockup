@@ -117,3 +117,14 @@ i:hover{
 #cta{
   margin-top: 65px;
 }
+@media(max-width:1028px){
+  #title{
+    text-align: center;
+  }
+
+  .title-img{
+    position: static;
+    transform: rotate(0);
+    width: 85%;
+  }
+}
